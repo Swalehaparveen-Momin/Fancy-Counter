@@ -1,6 +1,8 @@
 # Fancy-Counter
-Fancy Counter by using JavaScript
+
+**Description**
+Fancy Counter is a JavaScript-based counter that adds a touch of style to your webpage. It provides functionality for both incrementing and decrementing a counter with certain constraints.
 
 **Points to Remember**
-1. The counter should be increment till 5 only, if exceeds the upper limit then Plus button should be disable and top label text should be changed.
-2. The counter dicrement should not be negative.
+1. he counter should increment up to 5 only. If it exceeds the upper limit, the plus button should be disabled, and the top label text should be changed accordingly.
+2. The counter decrement should not result in a negative value.
